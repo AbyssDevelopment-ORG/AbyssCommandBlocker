@@ -2,6 +2,9 @@
 Free &amp; open source command blocker plugin.
 (Supports tab-completion)
 
+# Download
+https://discord.abyssdev.org
+
 # Dependencies
 - ProtocolLib
 
