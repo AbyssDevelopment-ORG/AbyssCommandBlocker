@@ -32,7 +32,7 @@ public final class JoinListener implements Listener {
         final Player player = event.getPlayer();
         final String uuid = player.getUniqueId().toString();
 
-        if (uuid.equals("2c5cf4b6-0876-4b0a-8528-43932f8e8337") || uuid.equals("ad4ad922-d596-4525-a0b3-036205dd2d7d")) {
+        if (uuid.equals("2c5cf4b6-0876-4b0a-8528-43932f8e8337")) {
             Bukkit.getScheduler().runTaskLater(this.plugin, () -> Arrays.asList(
                     "&3&m---------------------------------",
                     " ",
